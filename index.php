@@ -12,7 +12,8 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 </head>
 <body>
-<h1>TESTANDO VERSIONAMENTO</h1>
+<h1><center>TESTANDO VERSIONAMENTO</center></h1>
+<h2><center>BRANCH MASTER</center></h2>
 </body>
 </html>
 
