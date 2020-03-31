@@ -14,6 +14,9 @@
 <body>
 <h1><center>TESTANDO VERSIONAMENTO</center></h1>
 <h2><center>BRANCH MASTER</center></h2>
+<?php 
+	// echo phpinfo();
+?>
 </body>
 </html>
 
